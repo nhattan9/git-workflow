@@ -1,1 +1,1 @@
-console.log("Cart module loaded l2");
+console.log("Cart module loaded ");
